@@ -26,7 +26,7 @@ This project covers the following topics:
 
 ByteBot, your friendly project guide, is here to assist you throughout your learning journey.
 
-[ByteBot](https://github.com/Vinodhini96/KnowlBook_ML_Cheetsheet/blob/main/KnowlBook_3.0_final/Your%20paragraph%20text%20(1).jpg).
+![ByteBot](https://github.com/Vinodhini96/KnowlBook_ML_Cheetsheet/blob/main/KnowlBook_3.0_final/Your%20paragraph%20text%20(2).jpg)
 
 
 ##  Contribute with Your Magic
