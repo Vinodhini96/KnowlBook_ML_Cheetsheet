@@ -1,4 +1,4 @@
-# KnowlBook_ML_Cheetsheet
+# KnowlBook 3.0 Machine Learning Cheetsheet
 # Topic : Introduction to Machine Learning
 
 This project covers the following topics:
